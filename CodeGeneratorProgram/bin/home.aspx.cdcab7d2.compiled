@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FinalCodeGenerator/Home.aspx" hash="fffffffd5bcb1b82" filehash="8578050f274d3445" flags="110000" assembly="App_Web_home.aspx.cdcab7d2" type="ASP.home_aspx">
+    <filedeps>
+        <filedep name="/FinalCodeGenerator/Home.aspx" />
+        <filedep name="/FinalCodeGenerator/Home.aspx.cs" />
+    </filedeps>
+</preserve>
